@@ -7,7 +7,7 @@ from the mean population, and design a statistical study to compare vehicle perf
 ## Linear Regression to Predict MPG
 Attached below is the multiple linear regression model using R to predict MPG. 
 
-[MechaCar Part 1 Summary](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/MechaCar%20Part%201%20Summary.png)
+![MechaCar Part 1 Summary](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/MechaCar%20Part%201%20Summary.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Using  Pr(>|t|) value of less than 0.05 to showcase a statistically sginifcant relationship in relationship to our response variable,
@@ -23,9 +23,9 @@ of the variables would need to be changed out as they were shown with the Pr(>|t
 Attached below is two images for the summary statistics on suspension coils, one that shows the manufacturing lot summary, and another 
 that shows each lot tested individually.
 
-[Total Summary](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/Total%20Summary.png)
+![Total Summary](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/Total%20Summary.png)
 
-[Lot Summary](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/Lot%20Summary.png)
+![Lot Summary](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/Lot%20Summary.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 Based on the manufacturing lot summary, the variance is 62.29 indicating that all manufacturing lots in total meet that design
@@ -37,9 +37,9 @@ examined carefully.
 ## T-Tests on Suspension Coils
 Attached is the T-Test that was performed for the overall manufacturing lots, as well as the subsets.
 
-[T-Test](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/T-Test.png)
+![T-Test](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/T-Test.png)
 
-[T-Test Subsets](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/T-Test%20Subsets.png)
+![T-Test Subsets](https://github.com/swlim314/MechaCar_Statistical_Analysis_Week_15/blob/01909cc30e35c9cb1afb9177da6be2c9b577ad81/T-Test%20Subsets.png)
 
 Looking at the T-Test data, it confirms what was previously shown in the summary statistics. The overall t-test from the entire
 manufacturing lot has a p-value of 0.06, higher than the necessary significance value of 0.05 needed t oreject the null hypothesis.
